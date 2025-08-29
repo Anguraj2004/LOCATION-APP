@@ -15,7 +15,7 @@ This is a React Native application (built with Expo) that fetches the device's c
 ## App Screenshots
 | App Main Screen | Working Proof |
 |-----------------|--------------|
-| ![App Screen](./appscreen.jpeg) | ![Working Proof](./working.jpeg) |
+| ![App Screen](./assets/appscreen.jpeg) | ![Working Proof](./assets/working.jpeg) |
 
 ## Folder Structure
 ```
